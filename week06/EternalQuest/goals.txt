@@ -1,0 +1,4 @@
+0
+SimpleGoal|Give a Talk|Speak in the sacrament |500|False
+EternalGoal|study|every day |20
+ChecklistGoal|s|s|300|2|2|0
